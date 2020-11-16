@@ -1,0 +1,5 @@
+*.o
+dmenu
+dmenu_run
+stest
+dmenu_path
